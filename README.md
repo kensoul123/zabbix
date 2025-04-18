@@ -1,4 +1,5 @@
 Домашнее задание к занятию "Система мониторинга Zabbix" - Гречихин Юрий
+
 1 Задание
 ![image](https://github.com/user-attachments/assets/f0c3d96d-c8ed-4018-921d-52836a262150)
 ![image](https://github.com/user-attachments/assets/30d8967f-8b2e-419a-aa8a-fe965e797d10)
@@ -22,6 +23,7 @@ mysql> quit;
 DBPassword=password
 # systemctl restart zabbix-server zabbix-agent apache2
 # systemctl enable zabbix-server zabbix-agent apache2
+
 2 задание
 ![image](https://github.com/user-attachments/assets/41cd58a4-f440-4568-8e10-50c6f643b050)
 ![image](https://github.com/user-attachments/assets/6eda8035-fd03-4afe-b481-6cd285e63daf)
